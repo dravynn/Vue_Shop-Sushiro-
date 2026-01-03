@@ -1,5 +1,5 @@
 <div align = center>
-<img src="https://raw.githubusercontent.com/angus6b23/sushiro-vue/master/public/assets/icon/sushi.svg" width="800" height="300" alt="hk-transport-logo">
+<img src="https://raw.githubusercontent.com/dravynn/Vue_Shop-Sushiro-/master/public/assets/icon/sushi.svg" width="800" height="300" alt="hk-transport-logo">
 </div>
 
 # Sushiro-vue
@@ -24,7 +24,7 @@ Know how long is the queue of a chain sushi restaurant in Hong Kong at a glance.
 
 1.  Clone the git repository
 
-    `https://github.com/angus6b23/sushiro-vue.git`
+    `https://github.com/dravynn/Vue_Shop-Sushiro-.git`
     
 2.  Run yarn / npm
 
